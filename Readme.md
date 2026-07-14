@@ -1,4 +1,4 @@
-# DevOps-BT-node-app
+# DevOps-04-BT-node-app
 
 This project demonstrates how to package a Node.js application for deployment on a remote server.
 
@@ -9,4 +9,5 @@ npm pack
 
 ## Acknowledgements
 
-This project was created as part of the DevOps Bootcamp by **TechWorld with Nana**.
+This demo project was created as part of the DevOps Bootcamp by **TechWorld with Nana**.<br>
+Many thanks to Nana for creating such a comprehensive and practical learning experience.
